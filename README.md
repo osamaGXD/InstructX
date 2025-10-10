@@ -9,10 +9,11 @@ Official implementation of **[InstructX: Towards Unified Visual Editing with MLL
 <p align="center">
   <a href="https://mc-e.github.io/project/InstructX/">🌐 Project Page</a> |
   <a href="https://arxiv.org/pdf/2510.08485">📜 Arxiv</a> |
-  <a href="">🤗 Benchmark</a> |
+  <a href="https://huggingface.co/datasets/Simons212/VIE-Bench">🤗 Benchmark</a> |
 </p>
 
 ### :triangular_flag_on_post: Updates
+* **2025.10.10**: Release VIE-Bench.
 * **2025.10.10**: Release InstructX tech report.
 
 https://github.com/user-attachments/assets/06030093-53f2-4c75-a7e8-ac6cc8455870
