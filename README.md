@@ -13,7 +13,7 @@ Official implementation of **[InstructX: Towards Unified Visual Editing with MLL
 </p>
 
 ### :triangular_flag_on_post: Updates
-* **2025.04.24**: Release InstructX tech report.
+* **2025.10.10**: Release InstructX tech report.
 
 https://github.com/user-attachments/assets/06030093-53f2-4c75-a7e8-ac6cc8455870
 
