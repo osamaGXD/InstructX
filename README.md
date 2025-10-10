@@ -18,7 +18,7 @@ Official implementation of **[InstructX: Towards Unified Visual Editing with MLL
 
 https://github.com/user-attachments/assets/06030093-53f2-4c75-a7e8-ac6cc8455870
 
-# VIE-Bench
+### VIE-Bench
 
 We introduce VIE-Bench (Video Instruction-Based Editing Benchmark), which comprises 140 high-quality instances across eight editing categories.
 
