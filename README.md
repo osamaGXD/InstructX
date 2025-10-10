@@ -18,4 +18,19 @@ Official implementation of **[InstructX: Towards Unified Visual Editing with MLL
 
 https://github.com/user-attachments/assets/06030093-53f2-4c75-a7e8-ac6cc8455870
 
+# VIE-Bench
 
+We introduce VIE-Bench (Video Instruction-Based Editing Benchmark), which comprises 140 high-quality instances across eight editing categories.
+
+| Edit Task            | Sub Edit Task               | Number |
+|:---------------------|:---------------------------:|------:|
+| Total                |                             |   140 |
+| Local Edit           | Object Swap                 |    25 |
+|                      | Color Change                |    10 |
+|                      | Add                         |    30 |
+|                      | Remove                      |    30 |
+| Global Edit          | Style Change                |    10 |
+|                      | Tone / Weather Change       |     5 |
+| Hybrid Edit          | -                           |    10 |
+| Reference Base Edit  | Reference Base Swap         |    10 |
+|                      | Reference Base Add          |    10 |
